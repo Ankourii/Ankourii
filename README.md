@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **akountouri1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andromachi-kountouri-40b635a2/](https://www.linkedin.com/in/andromachi-kountouri-40b635a2/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andromachi kountouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andromachi kountouri" height="30" width="40" /></a>
